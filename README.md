@@ -8,7 +8,7 @@ The purpose of this challenge was to secure user accounts and network file share
 
 This repository includes screenshots of the configurations, troubleshooting steps, and final results from the XP Cyber Range challenge. The full challenge report is also available for a detailed breakdown of the tools used and steps taken to complete the objectives.
 
-[View Full Challenge Report (PDF)](Active_directory_fileshare_PDf/EdwardPenaDeDios_NCPReport170489.pdf)
+[View Full Challenge Report (PDF)](Ative_directory_fileshare_PDf/EdwardPenaDeDios_NCPReport170489.pdf)
 
 ## Environment and Tools
 
